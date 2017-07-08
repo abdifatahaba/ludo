@@ -1,1 +1,1 @@
-# ludo
+# SDC2012-LudoForAndroid
